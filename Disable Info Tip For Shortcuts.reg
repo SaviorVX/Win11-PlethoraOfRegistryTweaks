@@ -1,0 +1,23 @@
+Windows Registry Editor Version 5.00
+
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{031E4825-7B94-4dc3-B131-E946B44C8DD5}]
+"SortOrderIndex"=dword:00000054
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\AllFilesystemObjects]
+"DefaultDropEffect"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+"DisablePreviewDesktop"=dword:00000000
+"ShowInfoTip"=dword:00000000
+
+
+
+
+
+
+
+
+
+
+

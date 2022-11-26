@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\DesktopBackground\Shell\SystemDrive% (C:)\Command]
+@="explorer.exe \"C:\\\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\DesktopBackground\Shell\SystemDrive% (C:)]
+"Icon"="C:\\Windows\\System32\\Shell32.dll,8"
+"Position"="Top"

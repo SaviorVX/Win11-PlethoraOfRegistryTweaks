@@ -1,0 +1,16 @@
+Windows Registry Editor Version 5.00
+
+
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\AllFilesystemObjects\shellex\ContextMenuHandlers\CopyToFolder]
+@="{C2FBB630-2971-11D1-A18C-00C04FD75D13}"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\*\shell\runas\command]
+@="cmd.exe /c takeown /f \"%1\" && icacls \"%1\" /grant administrators:F"
+"IsolatedCommand"="cmd.exe /c takeown /f \"%1\" && icacls \"%1\" /grant administrators:F"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shell\runas\command]
+@="cmd.exe /c takeown /f \"%1\" && icacls \"%1\" /grant administrators:F"
+"IsolatedCommand"="cmd.exe /c takeown /f \"%1\" && icacls \"%1\" /grant administrators:F"
+

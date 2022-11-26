@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\DesktopBackground\Shell\Settings\Command]
+@="explorer.exe ms-settings://"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\DesktopBackground\Shell\Settings]
+"Position"="Bottom"

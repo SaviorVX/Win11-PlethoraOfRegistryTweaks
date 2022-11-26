@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System]
+"DisplayLastLogonInfo"=dword:00000000
+"legalnoticetext"=""
+"SynchronousUserGroupPolicy"=dword:00000001
+"FilterAdministratorToken"=dword:00000001
+"DisableCAD"=dword:00000001
+
+
+
+
